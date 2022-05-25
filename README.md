@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at [Momentu](https://momentu.co/)
-- 🌱 Founder of [Instinto Digital](https://instinto.digital/) and [Abianic](https://abianic.com/)
+- 🌱 Co-Founder of [Instinto Digital](https://instinto.digital/)
 - ⚙️ I use daily: `JavaScript`, `Node.Js`, `React`, `PHP`, `Laravel`
 - 🌍 I'm mostly active within the **DevsLaravel&Vue** comunity
 - 📖 Learning all about **Cloud Computing**
