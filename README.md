@@ -58,29 +58,41 @@
       <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
       <a href="#"><img alt="Angular" src="https://custom-icon-badges.demolab.com/badge/angular-red.svg?logo=angular&logoColor=white"></a>
       <a href="#"><img alt="Spring" src="https://custom-icon-badges.demolab.com/badge/spring-green.svg?logo=spring&logoColor=white"></a>
+      <a href="#"><img alt="Redux" src="https://custom-icon-badges.demolab.com/badge/redux-blue.svg?logo=redux&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>🗄️ Software as a Service</h3>
 
   <p>
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="AWS" src ="https://custom-icon-badges.demolab.com/badge/aws-blue.svg?logo=aws&logoColor=white"></a>
+      <a href="#"><img alt="AWS" src ="https://custom-icon-badges.demolab.com/badge/aws-yellow.svg?logo=aws&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+      <a href="#"><img alt="GitLab" src="https://custom-icon-badges.demolab.com/badge/gitlab-orange.svg?logo=gitlab&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="Jira" src="https://custom-icon-badges.demolab.com/badge/jira-blue.svg?logo=jira&logoColor=white"></a>
+      <a href="#"><img alt="BitBucket" src="https://custom-icon-badges.demolab.com/badge/bitbucket-blue.svg?logo=bitbucket&logoColor=white"></a>
+      
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3>💻 Software</h3>
 
   <p>
-      <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="Docker" src="https://custom-icon-badges.demolab.com/badge/Docker-blue?logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="RabbitMQ" src="https://custom-icon-badges.demolab.com/badge/rabbitmq-yellow.svg?logo=rabbitmq&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+  </p>
+
+  <h3>🧰 Tools</h3>
+
+  <p>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
   </p>
 </details>
 
