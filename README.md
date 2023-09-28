@@ -17,20 +17,21 @@
   <a href="https://dev.to/crisgarlez"><img width="32px" alt="Dev.to" title="Dev.to" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/></a>
 </p>
 
-### Hi there 👋
+Hi there 👋
 
-#### I'm a Back-end / Full-stack Developer working remote from Ecuador.
+I'm a Back-end / Full-stack Developer working remote from Ecuador.
 
-##### BIO
+<h3>BIO</h3>
 
-- 📄 Know about my experiences: [Linkedin](https://www.linkedin.com/in/crisgarlez/)
-- 🔭 I'm currently working on [Adonis](https://github.com/abianic/adonis)
+- 💼 My [Portfolio](https://www.crisgarlez.com/projects)
+- 📄 Know about my professional experiences: [Linkedin](https://www.linkedin.com/in/crisgarlez/)
+
 - 🌱 Co-Founder of [Abianic](https://abianic.com)
-- ⚙️ I use daily: `JavaScript`, `Node.Js`, `React`, `PHP`, `Laravel`
-- 📝 I regularly write articles on [https://crisgarlez.com/](https://crisgarlez.com/)
-- 📖 Learning all about **Golang**
+- ⚙️ I use daily: `JavaScript`, `Node.Js`, `React`, `PHP`, `Laravel`, `Java`
+- 📝 I write articles on [https://crisgarlez.com/](https://crisgarlez.com/)
+- 📖 Learning **English**
 - 💬 Ask me about **Software development**
-- 📫 How to reach me: **escipion25@gmail.com**
+- 📫 How to reach me: **escipion25[at]gmail.com**
 - ⚡️ Fun fact: I'm a huge fan of 🌋 The Lord of the Rings and 🕹️ LOTRO
 
 <details> 
