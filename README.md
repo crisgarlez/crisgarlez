@@ -23,12 +23,11 @@ I'm a Back-end / Full-stack Developer working remote from Ecuador.
 
 <h3>BIO</h3>
 
-- 💼 My [Portfolio](https://www.crisgarlez.com/projects)
+- 💼 My [Portfolio](https://github.com/crisgarlez/portfolio)
 - 📄 Know about my professional experiences: [Linkedin](https://www.linkedin.com/in/crisgarlez/)
-
+- 📝 I write articles on [My website](https://crisgarlez.com/)
 - 🌱 Co-Founder of [Abianic](https://abianic.com)
 - ⚙️ I use daily: `JavaScript`, `Node.Js`, `React`, `PHP`, `Laravel`, `Java`
-- 📝 I write articles on [https://crisgarlez.com/](https://crisgarlez.com/)
 - 📖 Learning **English**
 - 💬 Ask me about **Software development**
 - 📫 How to reach me: **escipion25[at]gmail.com**
